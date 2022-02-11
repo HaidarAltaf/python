@@ -1,3 +1,4 @@
 file = open("composers.txt")
-print(file)
+lines = file.readlines
+print(lines)
 
