@@ -1,3 +1,4 @@
-var1 = open("file.txt")
+var1 = open("filename.txt", "r")
+var1.readlines
 seseme = var1
 print(seseme)
