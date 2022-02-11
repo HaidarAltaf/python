@@ -1,3 +1,6 @@
+#commented code does not work 
+# 
+# 
 # class budget:
 #     def __init__money(self):
 #         balence = [food, clothes, entertainment, leftover]
